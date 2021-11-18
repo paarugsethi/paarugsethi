@@ -1,4 +1,4 @@
-Hello there👋
+## Hello there👋
 
 ## I'm Paarug Sethi. I'm a writer skilled in English, Javascript, HTML and CSS.
 
